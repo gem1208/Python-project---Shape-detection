@@ -1,1 +1,5 @@
-In this project, shape detection in a sample image was successfully performed with OpenCV and Python. The project was done thanks to the contour approximation and image moments method. All steps were explained in the pdf file
+In this project, shape detection in a sample image was successfully performed with OpenCV and Python. 
+
+The project was done thanks to the contour approximation and image moments method. 
+
+All steps were explained in the pdf file
